@@ -18,6 +18,8 @@
 
 ![Python](https://img.shields.io/badge/-Python-1E7775?style=for-the-badge&logo=python&logoColor=2496ED)
 
+![Python](https://img.shields.io/badge/Sonarqube-5190cf?style=for-the-badge&logo=sonarqube&logoColor=white)
+	
 ### Leetcode Stats:
 
 ![Leetcode Stats](https://leetcard.jacoblin.cool/AntonVivaldi?theme=light)
