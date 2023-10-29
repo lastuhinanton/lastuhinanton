@@ -16,7 +16,7 @@
 
 ![Ansible](https://img.shields.io/badge/-ansible-1E7775?style=for-the-badge&logo=ansible&logoColor=EE0000) ![Docker](https://img.shields.io/badge/-docker-1E7775?style=for-the-badge&logo=docker&logoColor=2496ED) ![Jenkins](https://img.shields.io/badge/-jenkins-1E7775?style=for-the-badge&logo=jenkins&logoColor=EE0000)
 
-![Python](https://img.shields.io/badge/-Python-1E7775?style=for-the-badge&logo=python&logoColor=2496ED) ![C](https://img.shields.io/badge/-C-1E7775?style=for-the-badge&logo=C&logoColor=6296CC) ![C++](https://img.shields.io/badge/-C++-1E7775?style=for-the-badge&logo=C%2b%2b&logoColor=6296CC)
+![Python](https://img.shields.io/badge/-Python-1E7775?style=for-the-badge&logo=python&logoColor=2496ED)
 
 ### Leetcode Stats:
 
